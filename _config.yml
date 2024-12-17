@@ -11,8 +11,8 @@ plugins:
 
 menu:
   - title: Submit your contribution
-    url:   /blog/
-  - title: About
-    url:   /projects/
-  - title: Contact
+    url:   /contribution/
+  - title: Program
+    url:   /program/
+  - title: Organizers
     url:   /resume/
