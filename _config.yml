@@ -1,7 +1,7 @@
 title: UNCSS
 description: Understudied Networks in Computational Social Science
 baseurl: "" # Lascialo vuoto se usi username.github.io
-url: "https://galeale.github.io/UNCCS" # Sostituisci username con il tuo nome utente GitHub
+url: "https://galeale.github.io/UNCSS" # Sostituisci username con il tuo nome utente GitHub
 
 theme: minima # Tema predefinito Jekyll
 plugins:
