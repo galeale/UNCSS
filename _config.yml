@@ -13,6 +13,6 @@ menu:
   - title: Submit your contribution
     url:   submission
   - title: Program
-    url:   program
+    url:   /program/
   - title: Organizers
-    url:   organizers
+    url:   /organizers
