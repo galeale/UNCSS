@@ -11,8 +11,8 @@ plugins:
 
 menu:
   - title: Submit your contribution
-    url:   /submission/
+    url:   /submission.md
   - title: Program
-    url:   /program/
+    url:   /program.md
   - title: Organizers
-    url:   /organizers/
+    url:   /organizers.md
