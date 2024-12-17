@@ -8,3 +8,11 @@ plugins:
   - jekyll-feed
   - jekyll-seo-tag
   - jekyll-include-cache
+
+  menu:
+  - title: Submit your contribution
+    url:   /blog/
+  - title: About
+    url:   /projects/
+  - title: Contact
+    url:   /resume/
