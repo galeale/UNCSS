@@ -9,7 +9,7 @@ plugins:
   - jekyll-seo-tag
   - jekyll-include-cache
 
-  menu:
+menu:
   - title: Submit your contribution
     url:   /blog/
   - title: About
