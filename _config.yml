@@ -3,7 +3,8 @@ description: Understudied Networks in Computational Social Science
 baseurl: "" # Lascialo vuoto se usi username.github.io
 url: "https://galeale.github.io/UNCSS" # Sostituisci username con il tuo nome utente GitHub
 
-theme: hydejack # Tema predefinito Jekyll
+remote_theme: hydecorp/hydejack@v9.2.1
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
+  - jekyll-include-cache
