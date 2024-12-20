@@ -2,6 +2,6 @@
 layout: about
 title: Organizers
 ---
-[Add IMAGE]Matteo Cinelli, Sapienza University of Rome, matteo.cinelli@uniroma1.it
-[Add Image]Max Falkenberg, Central European University, max.falkenberg@protonmail.com
-[Add Image]Alessandro Galeazzi, University of Padova, alessandro.galeazzi@unipd.it
+![Matteo Cinelli](/cinelli.jpg) Matteo Cinelli, Sapienza University of Rome, matteo.cinelli@uniroma1.it
+![Max Falkenberg](/falkenberb.jpg) Max Falkenberg, Central European University, max.falkenberg@protonmail.com
+![](/galeazzi.jpg) Alessandro Galeazzi, University of Padova, alessandro.galeazzi@unipd.it
