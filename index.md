@@ -1,13 +1,3 @@
----
-layout: about
-title: Understudied Networks in Computational Social Science
----
-Call for Contributions
-{:.lead}
----
-[SUBMIT YOUR CONTRIBUTION](submission.md)
-{:.lead}
-
 <!DOCTYPE html>
 <html lang="en">
 <head>
