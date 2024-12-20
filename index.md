@@ -1,5 +1,5 @@
 ---
-layout: home
+layout: about
 title: Understudied Networks in Computational Social Science
 ---
 Call for Contributions
