@@ -5,9 +5,16 @@ url: "https://galeale.github.io/UNCSS" # Sostituisci username con il tuo nome ut
 
 remote_theme: hydecorp/hydejack@v9.2.1
 plugins:
+  - jekyll-default-layout
   - jekyll-feed
+  - jekyll-optional-front-matter
+  - jekyll-paginate
+  - jekyll-readme-index
+  - jekyll-redirect-from
+  - jekyll-relative-links
   - jekyll-seo-tag
-  - jekyll-include-cache
+  - jekyll-sitemap
+  - jekyll-titles-from-headings
 
 menu:
   - title: Submit your contribution
