@@ -4,7 +4,7 @@ title:  Program
 ---
 |  Hour   |  Activity   |
 |-------------|-------------|
-| 9-9:10 | Opening and Welcome |
+| 9:00 - 9:10 | Opening and Welcome |
 |  9.10 - 9.50 | Invited Talk (30 minutes + question time) |
 |9.50 - 10.30| Contributed Talks |
 |10.30 - 11.00| Cofee Break |
