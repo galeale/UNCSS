@@ -16,6 +16,6 @@ title:  Program
 
  <div style="display: flex; align-items: center; gap: 10px; width: 100%;">
     <img src="portrait_alex.jpg" alt="Alexandre Bovet" style="width: 150px; height: 150px; object-fit: cover;">
-    <p style="margin: 0;"> Alex Bovet is an Assistant Professor in Quantitative Network Science at the University of
+    <p style="margin: 0;"> Alexandre Bovet is an Assistant Professor in Quantitative Network Science at the University of
 Zurich and a member of the Digital Society Initiative. He has recently published datasets and research on the social media platforms Telegram and BlueSky and curated a special issue on decentralized platforms hosted at Plos One.</p>
   </div>
