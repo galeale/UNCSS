@@ -18,7 +18,7 @@ menu:
     url:   /organizers
 
 
-    optional_front_matter:
+optional_front_matter:
   remove_originals:    true
 
 readme_index:
@@ -49,7 +49,7 @@ compress_html:
 sass:
   style:               compressed
 
-  # Hydejack Settings
+# Hydejack Settings
 # ----------------------------------------------------------------------------------------
 # These settings are specific to Hydejack.
 
