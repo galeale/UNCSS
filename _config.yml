@@ -24,6 +24,9 @@ menu:
   - title: Organizers
     url:   /organizers
 
+accent_image:          /sidebar.png
+#accent_color:          rgb(118,194,138)
+
 
 defaults:
   # `jekyll-seo-tag` will mark collection outputs as `BlogPosting`,
