@@ -12,7 +12,7 @@ title:  Program
 |11.40 - 12.20| Round Table Discussion |
 |12:20 - 12:30| Closing Remarks |
 
-<h1>Invited Speaker<\h1>:
+<h1>Invited Speaker </h1>
 
  <div style="display: flex; align-items: center; gap: 10px; width: 100%;">
     <img src="cinelli.jpeg" alt="Matteo Cinelli" style="width: 150px; height: 150px; object-fit: cover;">
