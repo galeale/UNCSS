@@ -1,7 +1,8 @@
 ---
 layout: about 
 title: Understudied Networks in Computational Social Science
-
+NetSci 2025 Satellite Symposium 
+Maastricht, June 2025
 ---
 
 The decline of academic APIs like Crowdtangle, Reddit, and Twitter, along with doubts about the effectiveness of the EU’s Digital Services Act facilitating data access, raises concerns for the future of social media research. However, these new barriers to data access open up new avenues for studying alternative datasets that have been understudied thus far including the Fediverse, Bluesky, WhatsApp, Telegram, and the Podcast Ecosystem. Although these platforms have their own data accessibility challenges, existing datasets are often overlooked by our community. This satellite aims to promote computational social science research which explores these understudied or unusual social network datasets and help other researchers to find datasets that they were not previously aware of.
