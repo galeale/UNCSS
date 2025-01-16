@@ -5,7 +5,7 @@ title: Understudied Networks in Computational Social Science
 
 <h2><center>
 NetSci 2025 Satellite Symposium, 
-Maastricht, June 2025
+Maastricht,  2-6 June 2025
 </center></h2>
 
 <p align="justify">
