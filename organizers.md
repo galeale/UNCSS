@@ -2,8 +2,6 @@
 layout: default
 title: Organizers
 ---
-<h1>Organizers</h1>
-
 <div style="display: flex; flex-wrap: wrap; gap: 20px;">
 
   <!-- Primo blocco: Immagine e Descrizione -->
