@@ -18,7 +18,7 @@ Zurich and a member of the Digital Society Initiative. He has recently published
 | 9:00 - 9:10 | Opening and Welcome |
 |  9.10 - 9.50 | Invited Talk (30 minutes + question time) |
 |9.50 - 10.30| Contributed Talks |
-|10.30 - 11.00| Cofee Break |
+|10.30 - 11.00| Coffee Break |
 |11:00 - 11:40| Contributed Talks |
 |11.40 - 12.20| Round Table Discussion |
 |12:20 - 12:30| Closing Remarks |
