@@ -24,7 +24,9 @@ Zurich and a member of the Digital Society Initiative. He has recently published
 |12:20 - 12:30| Closing Remarks |
 
 <h2>Talk Schedule</h2>
-| Speaker | Title |
+
+|  Speaker   |  Title  |
+|-------------|-------------|
 | Emanuele Cozzo | Studying Opinion Dynamics in Technopolitical Deliberation: The Case of (Meta)Decidim |
 | Alessia Galdemann | Climate Change Discourse on TikTok |
 | Yuan Zhang | More than ‘Left and Right’: Revealing Multilevel Online Political Selective Exposure |
