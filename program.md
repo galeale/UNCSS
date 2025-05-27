@@ -46,6 +46,5 @@ Zurich and a member of the Digital Society Initiative. He has recently published
 |  Speaker   |  Title  |
 |-------------|-------------|
 | Niccolò di Marco| Decoding Musical Evolution Through Network Science |
-| Mihaly Hanics| Large painter network and dataset creation using location data as connections,
-collected using the Wikidata SparQL API |
+| Mihaly Hanics| Large painter network and dataset creation using location data as connections, collected using the Wikidata SparQL API |
 | Beatrice Gentile | Understanding the dynamic of cohesive violent minorities: a preliminary analysis of the Incel.is community |
