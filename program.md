@@ -42,7 +42,7 @@ Zurich and a member of the Digital Society Initiative. He has recently published
 | Andrea Failla | Bluesky Social Dataset: A High-Coverage Resource for Computational Social Science Research |
 
 | Third Session: 11:45-12:25 | 
-|-------------|
+|---------------|
 |  Speaker   |  Title  |
 |-------------|-------------|
 | Niccolò di Marco| Decoding Musical Evolution Through Network Science |
