@@ -22,3 +22,15 @@ Zurich and a member of the Digital Society Initiative. He has recently published
 |11:00 - 11:40| Contributed Talks |
 |11.40 - 12.20| Round Table Discussion |
 |12:20 - 12:30| Closing Remarks |
+
+<h2>Talk Schedule</h2>
+| Speaker | Title |
+| Emanuele Cozzo | Studying Opinion Dynamics in Technopolitical Deliberation: The Case of (Meta)Decidim |
+| Alessia Galdemann | Climate Change Discourse on TikTok |
+| Yuan Zhang | More than ‘Left and Right’: Revealing Multilevel Online Political Selective Exposure |
+| Fernando Diaz Diaz | Modelling echo chamber effects in signed networks |
+| Miroslav Mirchev | Misinformation spreading through chain emails|
+| Andrea Failla | Bluesky Social Dataset: A High-Coverage Resource for Computational Social Science Research |
+| Niccolò di Marco| Decoding Musical Evolution Through Network Science |
+| Mihaly Hanics| Large painter network and dataset creation using location data as connections, collected using the Wikidata SparQL API |
+| Beatrice Gentile | Understanding the dynamic of cohesive violent minorities: a preliminary analysis of the Incel.is community |
